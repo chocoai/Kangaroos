@@ -9,5 +9,8 @@
         <module name="Kangaroo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Kangaroo" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
